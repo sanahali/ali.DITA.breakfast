@@ -6,8 +6,8 @@
         hot, black coffee! </shortdesc>
     <taskbody>
        <prereq>
-            <p><i>Be sure to check the pantry and fridge to make sure you have all ingredients on
-                    hand before beginning</i></p>
+            <p><i id="warning">Be sure to check the pantry and fridge to make sure you have all
+                    ingredients on hand before beginning</i></p>
           
         </prereq>
         <context> To make this sweet treat, you'll need the following ingredients, appliances, and tools.
@@ -16,7 +16,7 @@
             <b>Ingredients</b>
             <ul>
                 <li>1 tube of refrigerated bread roll dough</li>
-                <li audience="mom">1 stick butter</li>
+                <li audience="mom">1 stick butter <i>or</i></li>
                 <li audience="armando">1 stick margarine</li>
                 <li>½ cup sugar</li>
                 <li>2 tablespoons of cinnamon</li>

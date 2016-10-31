@@ -13,7 +13,7 @@
             <ul>
                 <li>1/2 cup of ground coffee</li>
                 <li>4 cup of water</li>
-                <li audience="mom">1 cup of milk</li>
+                <li audience="mom">1 cup of milk <i>or</i></li> 
                 <li audience="armando">1 cup of almond milk</li>
                 <li>Sugar to taste</li>       
             </ul>

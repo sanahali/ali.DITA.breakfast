@@ -8,12 +8,8 @@
   this a manual for cooking in Apartment B8, and use it anytime you need to reference available
   appliances, ingredients, or recipes. </shortdesc>
  <conbody>
-  <p audience="mom">I hope you slept well, mom. Below, I have detailed the appliances and
-   ingredients that I keep in my kitchen so you know what is available to use! </p>
- 
- <p audience="armando">
-I hope you are getting settled in comfortable, armando! Below is a list of the appliances and ingredients that are available for you to use!  
- </p>
+  <p audience="mom">Below, I have detailed the appliances and ingredients that I keep in my kitchen
+   so you know what is available to use! </p>
 
 <p><b>Appliances:</b><ul id="appliances">
     <li>Single-cup coffee machine</li>
