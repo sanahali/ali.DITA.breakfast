@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="breakfast-sandwich" audience="mom">
+    <title>Breakfast Sandwich</title>
+    <shortdesc>A delicious breakfast sandwich that will fuel you through your day. </shortdesc>
+    <taskbody>
+        <prereq>
+            <p><i>Be sure to check the pantry and fridge to make sure you have all ingredients on
+                hand before beginning</i></p>
+        </prereq>
+        <context> To make this spicy bread, you'll need the following ingredients, appliances, and tools. The ingredients listed below are the main ones necessary, but feel free to get creative and include other ingredients in your sandwich!
+            <p>This recipe makes 1 serving and approximately 15 minutes to prepare.</p>
+            <p/><b>Ingredients</b>
+            <ul>
+                <li>1 english muffin</li>
+                <li>1 egg</li>
+                <li>1 tablespoon of butter</li>
+                <li>2 strips of bacon</li>
+                <li>1 tablespoon of guacamole</li>
+                <li>4 cherry tomatoes</li>
+                <li>1 slice of pepper jack cheese</li>
+                
+            </ul>
+            <b>Appliances</b>
+            <ul>
+                <li>Stove</li>
+                <li>Toaster oven</li>
+            </ul>
+            <b>Tools</b>
+            <ul>
+                <li>Frying pan</li>
+                <li>Spatula</li>
+                
+            </ul>
+        </context>
+        <steps>
+            <stepsection><b>To make the sandwich</b></stepsection>
+            <step>
+                <cmd>Fry the bacon in the frying pan over high heat, remove from the pan once cooked through and set aside.</cmd>
+            </step>
+            <step>
+                <cmd>Add butter to the pan and crack the egg into it, lower the heat to medium and
+                    flip egg with the spatula once opaque.</cmd>
+            </step>
+            <step>
+                <cmd>Once egg is done, set aside with bacon on a plate. At this point, you can also preheat the toaster oven to 350 degrees.</cmd>
+            </step>
+            <step>
+                <cmd>Put english muffin in frying pan and turn off the stove. The residual heat and grease will lightly toast the muffin.</cmd>
+            </step>
+            <step>
+                <cmd>After about a minute, remove the muffin from the pan and spread with guacamole and top with the tomatoes.</cmd>
+            </step>
+            <step>
+                <cmd> Continue to build the sandwich by adding the egg, cheese, and bacon, and top with other half of the muffin. </cmd>
+            </step>
+            <step>
+                <cmd>Place the sandwich in the preheated toaster oven for 3 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the sandwich from the oven and serve immediately.</cmd>
+            </step>
+            
+        </steps>
+<postreq>
+            <p>
+                <fig id="fig_rry_ymg_5x">
+                    <title>Assembled breakfast sandwich</title>
+                    <image href="sandwich.jpg" id="image_sry_ymg_5x"/>
+                </fig>
+            </p>
+</postreq>
+        
+        
+    </taskbody>
+</task>

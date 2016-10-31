@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="american-bread">
+    <title>Sweet American Cinnamon Rolls </title>
+    <shortdesc>A delicious yet quick sweet treat for a pick-me-up breakfast. Perfect with a cup of
+        hot, black coffee! </shortdesc>
+    <taskbody>
+       <prereq>
+            <p><i>Be sure to check the pantry and fridge to make sure you have all ingredients on
+                    hand before beginning</i></p>
+          
+        </prereq>
+        <context> To make this sweet treat, you'll need the following ingredients, appliances, and tools.
+                <p/>
+            <p>This recipe makes 4 servings and approximately 20 minutes to prepare.</p>
+            <b>Ingredients</b>
+            <ul>
+                <li>1 tube of refrigerated bread roll dough</li>
+                <li audience="mom">1 stick butter</li>
+                <li audience="armando">1 stick margarine</li>
+                <li>½ cup sugar</li>
+                <li>2 tablespoons of cinnamon</li>
+                <li>2 tablespoons of flour</li>
+            </ul>
+            <b>Appliances</b>
+            <ul>
+                <li>Oven</li>
+                <li>Microwave</li>
+            </ul>
+            <b>Tools</b>
+            <ul>
+                <li>Knife</li>
+                <li>Rolling pin</li>
+                <li>Bowl</li>
+                <li>Whisk</li>
+            </ul>
+        </context>
+        
+        <steps>
+<stepsection><b>To make the rolls </b></stepsection>
+            <step>
+                <cmd>Flour your workspace (the counter) with a light dusting of flour.</cmd>
+            </step>
+            <step>
+                <cmd>Open up your bread roll dough and place it onto the floured workspace.</cmd>
+            </step>
+            <step>
+                <cmd>Roll out the dough until it is about ¼ inch thick and in a rectangular
+                    shape.</cmd>
+            </step>
+            <step>
+                <cmd>Melt butter in bowl and pour evenly onto dough. </cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle sugar and cinnamon evenly over buttered dough.</cmd>
+            </step>
+            <step>
+                <cmd>Roll up the dough, starting on one of the long ends until you have a log-shape.
+                    (See figure 1 for an example)</cmd>
+            </step>
+            <step>
+                <cmd>Cut roll into 6 pieces and arrange on baking sheet. (See figure 1 for an
+                    example)</cmd>
+            </step>
+            <step>
+                <cmd>Bake for 15-20 minutes or until golden brown, then let cool for 10 minutes and
+                    enjoy!</cmd>
+            </step>
+        </steps>
+
+         <postreq>
+            <b><u>Troubleshooting</u></b>
+            <ul>
+                <li>If you are not sure what your rolled up log and cut pieces should look like,
+                    check the figure below.<p><image
+                            href="../../creating-user-documentation/ali-breakfast/cinnamon-rolls.jpg"
+                            id="image_dj4_wxf_5x"/></p></li>
+            </ul></postreq>
+            
+       
+    </taskbody>
+</task>

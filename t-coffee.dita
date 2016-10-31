@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="coffee">
+    <title>Classic Iced Coffee</title>
+    <shortdesc>The perfect accompanimant to any meal, a true classic with coffee ice cubes to intensify the flavor. </shortdesc>
+    <taskbody>
+        <prereq>
+            <p><i>Prepping the coffee mixture beforehand makes assembling in the morning quick and easy!</i></p>
+        </prereq>
+        <context> Below you'll find the necessary ingredients, appliances, and tools needed to make iced coffee. 
+            <p>This recipe makes 4 servings and approximately 10 minutes to prepare. (Prep time does not include freezing time of ice cubes or time for coffee to cool in the fridge, these steps should be taken overnight)</p>
+            <p/><b>Ingredients</b>
+            <ul>
+                <li>1/2 cup of ground coffee</li>
+                <li>4 cup of water</li>
+                <li audience="mom">1 cup of milk</li>
+                <li audience="armando">1 cup of almond milk</li>
+                <li>Sugar to taste</li>       
+            </ul>
+            <b>Appliances</b>
+            <ul>
+                <li>Coffee machine</li>
+            </ul>
+            <b>Tools</b>
+            <ul>
+                <li>Jug with lid</li>
+                <li>Ice cube tray</li>
+            </ul>
+        </context>
+        <steps>
+            <stepsection><b>To prepare the coffee</b></stepsection>
+            <step>
+                <cmd>Plug in coffee machine and ensure the red light is flashing.</cmd>
+            </step>
+            <step>
+                <cmd>Pour ground coffee into the filter at the top of the machine labeled "coffee grounds".</cmd>
+            </step>
+            <step>
+                <cmd>Fill up coffee pot with water and pour into the bowl at the top of the machine labeled "water bowl".</cmd>
+            </step>
+            <step>
+                <cmd>Secure the lid by turning it clockwise until you hear a click and and press "on". </cmd>
+            </step>       
+            <step> <cmd>Let the coffee cool in the pot after brewing before storing. </cmd> </step>
+            <step>
+                <cmd>Pour coffee into an airtight jug with lid and store in fridge for at least 6 hours to cool. Leave about 1/4 cup of brewed coffee in pot to make ice cubes.</cmd>
+            </step>
+            <stepsection><b>To prepare the coffee ice cubes</b></stepsection>
+            <step>
+                <cmd>Pour the coffee into the ice cube mold and put in the freezer overnight to harden.  </cmd>
+            </step>
+            <step><cmd>Keep ice cubes in freezer tray in the freezer for use throughout the week.</cmd></step>
+            
+            <stepsection><b>To assemble Classic Iced Coffee</b></stepsection>
+            <step>
+                <cmd>Pour coffee into glass until 2/3 full</cmd>
+            </step>
+            <step><cmd>Add 1-3 coffee ice cubes to preserve intensity of coffee</cmd></step>
+            <step><cmd>Add milk to taste</cmd></step>
+            <step>
+                <cmd>Add sugar to taste</cmd>
+            </step>
+        </steps>
+        
+        <postreq>
+            <p>This coffee keeps well in an air-tight container in the fridge for up to a week.</p>
+            
+            <p>
+                <image href="coffee.jpg" id="image_f11_zfg_5x"/></p>
+        </postreq>
+        
+        
+    </taskbody>
+</task>

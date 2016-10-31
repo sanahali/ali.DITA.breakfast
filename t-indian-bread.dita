@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="naan">
+    <title>Spicy Indian Naan Bread</title>
+    <shortdesc>A spicy and savory bread that is great for making ahead and storing for a quick
+        weekday breakfast. </shortdesc>
+    <taskbody>
+        <prereq>
+            <p><i>Be sure to check the pantry and fridge to make sure you have all ingredients on
+                hand before beginning</i></p>
+        </prereq>
+        <context> To make this spicy bread, you'll need the following ingredients, appliances, and tools. The ingredients listed below are the main ones necessary, but feel free to get creative and top your naan with other toppings as well!
+            <p>This recipe makes 4 servings and approximately 15 minutes to prepare.</p>
+            <p/><b>Ingredients</b>
+            <ul>
+                <li>1 tube of refrigerated bread roll dough</li>
+                <li audience="mom">1 stick butter</li>
+                <li audience="armando">1 stick margarine</li>
+                <li>2 teaspoons of salt</li>
+                <li>1 teaspoon of pepper</li>
+                <li>optional 1 teaspoon of red pepper flakes </li>
+                <li audience="mom">1/2 cup of sausage crumbles</li>
+                <li audience="armando">1/2 cup of soysage crumbles</li>
+                
+            </ul>
+            <b>Appliances</b>
+            <ul>
+                <li>Oven</li>
+                <li>Microwave</li>
+            </ul>
+            <b>Tools</b>
+            <ul>
+                <li>Knife</li>
+                <li>Rolling pin</li>
+                <li>Bowl</li>
+               
+            </ul>
+        </context>
+        <steps>
+            <stepsection><b>To make the naan</b></stepsection>
+            <step>
+                <cmd>Flour your workspace (the counter) with a light dusting of flour.</cmd>
+            </step>
+            <step>
+                <cmd>Open up your bread roll dough and place it onto the floured workspace.</cmd>
+            </step>
+            <step>
+                <cmd>Roll out the dough until it is about 1 inch thick and in a rectangular
+                    shape.</cmd>
+            </step>
+            <step>
+                <cmd>Melt butter in bowl and pour evenly onto dough. </cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle salt, pepper, and red pepper flakes evenly over buttered dough.</cmd>
+            </step>
+            <step>
+                <cmd audience="armando">Pour soysage crumbles evenly over the dough, pressing them in so they stick.</cmd>
+            </step>
+            <step>
+                <cmd>Pour sausage crumbles evenly over the dough, pressing them in so they stick</cmd>
+            </step>
+            <step>
+                <cmd>Cut dough into 6 squares.</cmd>
+            </step>
+            <step>
+                <cmd>Cut each square into half diagonally, so that you have a total of 12 triangles.</cmd>
+            </step>
+            <step>
+                <cmd>Bake for 10 minutes until slightly puffy and still light in color. 
+                    </cmd>
+            </step>
+            <step>
+                <cmd>After 10 minutes, put oven on "broil" for 4 minutes to slightly char the surface of the bread. This gives it the distinct "naan" flavor.</cmd>
+            </step>
+        </steps>
+        
+        <postreq>
+            <p>This naan keeps well in an air-tight container in the fridge for up to a week. You can pull it out any morning and customize it for breakfast that day. 
+           </p>
+            <p>To reheat the naan you'll need
+                <ul>
+             <li>toaster oven</li>
+                    <li audience="mom">1 tablespoon butter</li>
+                    <li audience="armando">1 tablespoon margarine</li>
+                </ul>
+           Place the naan in the toaster oven at 350 degrees for 5 minutes and spread the spread on it after. 
+            </p>
+            <p>
+                <fig id="fig_nkb_txf_5x">
+                    <title>Customized naan with egg, cilantro, and sausage</title>
+                    <image href="../../creating-user-documentation/ali-breakfast/naan.jpg"
+                        id="image_okb_txf_5x"/>
+                </fig>
+            </p>
+        </postreq>
+        
+       
+    </taskbody>
+</task>
+            

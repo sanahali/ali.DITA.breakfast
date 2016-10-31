@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="vegan-bowl" audience="armando">
+    <title>Power Protein Bowl</title>
+    <shortdesc>A protein-packed bowl that will keep you going all day. </shortdesc>
+    <taskbody>
+        <prereq>
+            <p><i>Be sure to check the pantry and fridge to make sure you have all ingredients on
+                hand before beginning</i></p>
+        </prereq>
+        <context> To make this bowl, you'll need the following ingredients, appliances, and tools. The ingredients listed below are the main ones necessary, but feel free to get creative and include other ingredients in your bowl!
+            <p>This recipe makes 1 serving and approximately 15 minutes to prepare.</p>
+            <p/><b>Ingredients</b>
+            <ul>
+                <li>1/2 cup of tempeh bacon bits</li>
+                <li>1/2 cup of egg white substitute</li>
+                <li>1 tablespoon of coconut oil</li>
+                <li>1 avocado</li>
+                <li>5 cherry tomatoes, halved</li>
+                <li>1 teaspoon of Sriracha hot sauce</li>
+                <li>Salt to taste</li>
+                <li>Black pepper to taste</li>
+                
+            </ul>
+            <b>Appliances</b>
+            <ul>
+                <li>Stove</li>
+            </ul>
+            <b>Tools</b>
+            <ul>
+                <li>Frying pan</li>
+                <li>Spatula</li>
+                
+            </ul>
+        </context>
+        <steps>
+            <stepsection><b>To make the bowl</b></stepsection>
+            <step>
+                <cmd>Fry the tempeh bacon pieces in the frying pan over high heat, remove from the pan once cooked through and set aside.</cmd>
+            </step>
+            <step>
+                <cmd>Add coconut oil to the pan and pour the egg white substitute into it, lower the heat to "low" and slowly stir the egg substitute until scrambled and cooked through. 
+                    .</cmd>
+            </step>
+            <step>
+                <cmd>Once eggs are done put in the bottom of a bowl, sprinkle with salt and pepper, and add the bacon on top.</cmd>
+            </step>
+            <step>
+                <cmd>Slice the avocado and arrange on top of the eggs and bacon.</cmd>
+            </step>
+            <step>
+                <cmd>Cut the cherry tomatoes in half and sprinkle on top of the bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Drizzle the top of the bowl with Sriracha to taste. </cmd>
+            </step>
+           
+            
+        </steps>
+        <postreq>
+            <p>
+                <fig id="fig_kw4_4pg_5x">
+                    <title>Power Protein Bowl</title>
+                    <image href="protein.jpg" id="image_lw4_4pg_5x"/>
+                </fig>
+            </p>
+        </postreq>
+        
+        
+    </taskbody>
+</task>

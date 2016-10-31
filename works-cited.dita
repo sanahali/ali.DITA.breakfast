@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_qvp_ppg_5x">
+ <title>Works Cited</title>
+ <shortdesc>Links to images used in this recipe manual. </shortdesc>
+ <conbody>
+  <p>
+   <ul>
+    <li>Coffee image<xref
+      href="http://www.kitchentreaty.com/wp-content/uploads/2012/05/IMG_6390.jpg" format="jpg"
+      scope="external"/></li>
+    <li>Chai image<xref
+      href="http://www.keeperofthehome.org/wp-content/uploads/2013/12/pot-of-cooking-chai.jpg"
+      format="jpg" scope="external"/></li>
+    <li>Cinnamon roll image<xref
+      href="http://media.dish.allrecipes.com/wp-content/uploads/2015/05/102280510-Placing-Cinnamon-Roll-Dough-in-a-Baking-Pan-Photo-by-Meredith.jpg"
+      format="jpg" scope="external"/></li>
+    <li>Naan image<xref
+      href="https://s-media-cache-ak0.pinimg.com/236x/eb/71/40/eb7140a50258aa75d8025cd1c68bcbff.jpg"
+      format="jpg" scope="external"/></li>
+    <li>Avocado bowl image<xref
+      href="https://farm2.staticflickr.com/1604/26496934116_f7e85b3218_c.jpg" format="jpg"
+      scope="external"/></li>
+    <li>Sandwich image <xref
+      href="http://lifecdn.dailyburn.com/life/wp-content/uploads/2014/02/Low_Calorie-Breakfast-Sandwich-with-Turkey-Bacon.jpg"
+      format="jpg" scope="external"/></li>
+   </ul>
+  </p>
+ </conbody>
+</concept>

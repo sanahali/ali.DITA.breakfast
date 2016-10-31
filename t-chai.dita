@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="chai">
+    <title>Indian Masala Chai Tea</title>
+    <shortdesc>A warm spice tea for chilly mornings. </shortdesc>
+    <taskbody>
+        <prereq>
+            <p><i>Be sure to prep the tea mixture ahead of time so you can make tea quickly in the morning.</i></p>
+        </prereq>
+        <context> Below you'll find the necessary ingredients, appliances, and tools needed to make
+            this warm drink. <p>This recipe makes 2 servings and approximately 10 minutes to
+                prepare.</p>
+            <p/><b>Ingredients</b>
+            <ul>
+                <li>1/4 cup of black tea</li>
+                <li>1 cup of water</li>
+                <li audience="mom">1 cup of milk</li>
+                <li audience="armando">1 cup of almond milk</li>
+                <li>2 teaspoons of ground cinnamon</li>
+                <li>1 teaspoon of ground cardamom</li>
+                <li>1/2 teaspoon of black pepper</li>
+                <li>1/4 teaspoon of red pepper flakes </li>
+                <li>Sugar to taste</li>
+            </ul>
+            <b>Appliances</b>
+            <ul>
+                <li>Stove</li>
+            </ul>
+            <b>Tools</b>
+            <ul>
+                <li>Whisk</li>
+                <li>Pot</li>
+            </ul>
+            <p> To prepare the tea mixture: combine the loose tea and spices into an airtight
+                container and store in the pantry for up to 2 weeks. </p>
+        </context>
+               <steps>
+                   <stepsection><b>To make the chai</b></stepsection>
+            <step>
+                <cmd>Put water and tea mixture into the pot and put it on the stove on the setting "high".</cmd>
+            </step>
+            <step>
+                <cmd>Once the tea is boiling, turn the stove down to "medium" and add the milk.</cmd>
+            </step>
+            <step>
+                <cmd>Let the tea mixture cook at "medium" heat for about 5 minutes.</cmd>
+            </step>
+            <step>
+                <cmd>Serve tea immediately, offer sugar on the side to desired taste. </cmd>
+            </step>       
+        </steps>
+        
+        <postreq>
+            <p>This tea mixture keeps well in an air-tight container in the fridge for up to a week.</p>
+            <p>The tea drink can be kept in a thermos in the fridge for up to a week, and reheated in the microwave.</p>
+            
+            <p>
+                <image href="chai.jpg" id="image_ghr_fcg_5x"/></p>
+        </postreq>
+        
+        
+    </taskbody>
+</task>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
+<concept id="introduction">
+ 
+ <title>Welcome to Apartment B8's Kitchen!</title>
+ <shortdesc>In this kitchen you'll find everything you need to make a wholesome breakfast. Consider
+  this a manual for cooking in Apartment B8, and use it anytime you need to reference available
+  appliances, ingredients, or recipes. </shortdesc>
+ <conbody>
+  <p audience="mom">I hope you slept well, mom. Below, I have detailed the appliances and
+   ingredients that I keep in my kitchen so you know what is available to use! </p>
+ 
+ <p audience="armando">
+I hope you are getting settled in comfortable, armando! Below is a list of the appliances and ingredients that are available for you to use!  
+ </p>
+
+<p><b>Appliances:</b><ul id="appliances">
+    <li>Single-cup coffee machine</li>
+    <li>Electric kettle</li>
+    <li>Microwave </li>
+    <li>Toaster oven</li>
+    <li>Oven</li>
+    <li>Blender</li>
+    <li>Juicer</li>
+   </ul></p>
+  
+  <p>
+   <b>Ingredients always in stock in the fridge: </b><ul id="fridge">
+    <li>Milk</li>
+    <li>Almond Milk</li>
+    <li>Eggs</li>
+    <li>Egg substitute</li>
+    <li>Corn meal</li>
+    <li>Chicken sausage</li>
+    <li>Margarine</li>
+    <li>Dinner roll dough</li>
+   </ul>
+  </p>  
+  <p><b> Ingredients always in stock in the pantry </b><ul id="pantry">
+    <li>Assorted fruit (found in basket on counter)</li>
+    <li>Flour</li>
+    <li>Black Tea</li>
+    <li>Coffee</li>
+    <li>Maple syrup</li>
+    <li>Sugar</li>
+    <li>Salt</li>
+    <li>Pepper</li>
+    <li>Red pepper flakes</li>
+   </ul>
+  </p>
+  <p/>
+  <p><b><u>Tools</u></b>
+  </p>
+  <p><i>Larger tools can be found in the cabinet above the stove, utensils are in the drawer to the
+    right side of the stove. </i></p>
+  <p><b>Larger tools</b></p>
+  <p>
+   <ul id="ul_cs4_kzf_5x">
+    <li>Large pot</li>
+    <li>Small pot</li>
+    <li>Bowls</li>
+    <li>Mixing bowls</li>
+    <li>Cups</li>
+    <li>Glasses</li>
+    <li>Plates</li>
+    <li>Baking sheets</li>
+   </ul>
+  </p>
+  <p><b>Utensils</b></p>
+  <p>
+   <ul id="ul_rmm_tzf_5x">
+    <li>Spoons</li>
+    <li>Forks</li>
+    <li>Knives</li>
+    <li>Whisk</li>
+    <li>Measuring cups</li>
+    <li>Measuring spoons</li>
+   </ul>
+  </p>
+ </conbody>
+</concept>
